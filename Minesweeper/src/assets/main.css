@@ -1,0 +1,86 @@
+.sprite {
+    width: 16px;
+    height: 16px;
+    float: left;
+    background: url(sprites_vk.png);
+
+
+    border: 1px solid red;
+    margin: 10px
+}
+
+
+
+.sprite-table-1, .sprite-table-2, .sprite-table-3, .sprite-table-4, .sprite-table-5, .sprite-table-6, .sprite-table-7, .sprite-table-8, .sprite-table-9, .sprite-table-0 {
+    width: 13px;
+    height: 23px;
+}
+
+.sprite-table-1 {}
+.sprite-table-2 {
+    background-position-x: -14px;
+}
+.sprite-table-3 {
+    background-position-x: -28px;
+}
+.sprite-table-4 {
+    background-position-x: -42px;
+}
+.sprite-table-5 {
+    background-position-x: -56px;
+}
+.sprite-table-6 {
+    background-position-x: -70px;
+}
+.sprite-table-7 {
+    background-position-x: -84px;
+}
+.sprite-table-8 {
+    background-position-x: -98px;
+}
+.sprite-table-9 {
+    background-position-x: -112px;
+}
+.sprite-table-0 {
+    background-position-x: -126px;
+}
+
+
+
+/*
+.sprite-table-1
+.sprite-table-2
+.sprite-table-3
+.sprite-table-4
+.sprite-table-5
+.sprite-table-6
+.sprite-table-7
+.sprite-table-8
+.sprite-table-9
+.sprite-table-0
+
+.sprite-field-1
+.sprite-field-2
+.sprite-field-3
+.sprite-field-4
+.sprite-field-5
+.sprite-field-6
+.sprite-field-7
+.sprite-field-8
+
+.sprite-field-blank
+.sprite-field-choosen
+.sprite-field-flag
+.sprite-field-question
+.sprite-field-question-choosen
+.sprite-field-mine
+.sprite-field-mine-choosen 
+.sprite-field-mine-cross
+
+.sprite-face-smile
+.sprite-face-smile-choosen
+.sprite-face-O
+.sprite-face-glasses
+.sprite-face-dead
+*/
+
