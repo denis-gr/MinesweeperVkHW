@@ -1,0 +1,145 @@
+
+
+.sprite {
+    width: 16px;
+    height: 16px;
+    float: left;
+    background: url(sprites_vk.png);
+
+
+
+    //border: 1px solid red;
+    //margin: 10px
+}
+
+
+
+.sprite-table-1, .sprite-table-2, .sprite-table-3, .sprite-table-4, .sprite-table-5, .sprite-table-6, .sprite-table-7, .sprite-table-8, .sprite-table-9, .sprite-table-0 {
+    width: 13px;
+    height: 23px;
+}
+
+.sprite-table-1 {}
+.sprite-table-2 {
+    background-position-x: -14px;
+}
+.sprite-table-3 {
+    background-position-x: -28px;
+}
+.sprite-table-4 {
+    background-position-x: -42px;
+}
+.sprite-table-5 {
+    background-position-x: -56px;
+}
+.sprite-table-6 {
+    background-position-x: -70px;
+}
+.sprite-table-7 {
+    background-position-x: -84px;
+}
+.sprite-table-8 {
+    background-position-x: -98px;
+}
+.sprite-table-9 {
+    background-position-x: -112px;
+}
+.sprite-table-0 {
+    background-position-x: -126px;
+}
+
+
+.sprite-field-1, .sprite-field-2, .sprite-field-3, .sprite-field-4, .sprite-field-5, .sprite-field-6, .sprite-field-7, .sprite-field-8 {
+    width: 16px;
+    height: 16px;
+    background-position-y: 16px;
+}
+
+.sprite-field-1 {}
+.sprite-field-2 {
+    background-position-x: -17px;
+}
+.sprite-field-3 {
+    background-position-x: -34px;
+}
+.sprite-field-4 {
+    background-position-x: -51px;
+}
+.sprite-field-5 {
+    background-position-x: -68px;
+}
+.sprite-field-6 {
+    background-position-x: -85px;
+}
+.sprite-field-7 {
+    background-position-x: -102px;
+}
+.sprite-field-8 {
+    background-position-x: -119px;
+}
+
+.sprite-field-blank,
+.sprite-field-choosen,
+.sprite-field-flag,
+.sprite-field-question,
+.sprite-field-question-choosen,
+.sprite-field-mine,
+.sprite-field-mine-choosen,
+.sprite-field-mine-cross {
+    width: 16px;
+    height: 16px;
+    background-position-y: 33px;
+}
+
+
+
+.sprite-field-blank {
+}
+.sprite-field-choosen {
+    background-position-x: -17px;
+}
+.sprite-field-flag {
+    background-position-x: -34px;
+}
+.sprite-field-question {
+    background-position-x: -51px;
+}
+.sprite-field-question-choosen {
+    background-position-x: -68px;
+}
+.sprite-field-mine {
+    background-position-x: -85px;
+}
+.sprite-field-mine-choosen  {
+    background-position-x: -102px;
+}
+.sprite-field-mine-cross {
+    background-position-x: -119px;
+}
+
+
+.sprite-face-smile,
+.sprite-face-smile-choosen,
+.sprite-face-O,
+.sprite-face-glasses,
+.sprite-face-dead {
+    width: 25px;
+    height: 25px;
+    background-position-y: 60px;
+}
+
+.sprite-face-smile {
+}
+.sprite-face-smile-choosen {
+    background-position-x: -28px;
+}
+.sprite-face-O {
+    background-position-x: -55px;
+}
+.sprite-face-glasses {
+    background-position-x: -82px;
+}
+.sprite-face-dead {
+    background-position-x: -109px;
+}
+
